@@ -1,17 +1,18 @@
 # Rules for Law Writing (That Doesn't Suck)
 
-I intend to offer this list as something more imperative than
+A few opening remarks: First, I intend to offer this list as something more imperative than
 a style guide, but less binding than established rules of grammar. These rules
 should not be ignored. But every rule that follows is open to challenge—where a
 *challenge* is a decision arrived at after consideration.
+
+This genesis of this document is equal parts notes I have received and notes I have given. I explicitly disclaim any expertise.
 
 ---
 
 **1. Write What Happened**
 
 Never conflate accusations with convictions. If someone has
-been charged, say what they’ve been charged with and under what law—not just
-what they’re accused of doing. Guilt is a legal conclusion, not a factual one.
+been charged, say what they’ve been charged with and under what law—not just what they’re accused of doing. Guilt is a legal conclusion, not a factual one.
 Use precise language that reflects procedural postures: accused, indicted,
 convicted, acquitted—not “caught” or “did.”
 
