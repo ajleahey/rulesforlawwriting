@@ -1,7 +1,11 @@
+# Rules for Law Writing (That Doesn't Suck)
+
 I intend to offer this list as something more imperative than
 a style guide, but less binding than established rules of grammar. These rules
 should not be ignored. But every rule that follows is open to challenge—where a
 *challenge* is a decision arrived at after consideration.
+
+---
 
 **1. Write What Happened**
 
