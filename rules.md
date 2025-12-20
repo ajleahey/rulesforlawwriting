@@ -21,6 +21,8 @@ acquitted isn’t the same thing as being cleared—and being found liable doesn
 mean being guilty. Learn the differences and use the correct terms but, more
 importantly, remember: the law is a system and not a synonym for justice.
 
+If a public official doesn't have the authority to do something, but attempts to do it anyway, that is an opportunity to use an intention-denoting verb, not an achievement or accomplishment verb. For example "X announces they will be referring to Y as Z" NOT "X renames Y to Z."
+
 **2. The Law Is Not Self-Executing**
 
 No law executes itself. Somewhere, someone must act. Always
